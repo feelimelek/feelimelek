@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm an **[IBM Application Developer Junior]** with experience in **[Front-end]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm an **IBM Application Developer Junior** with experience in **Front-end**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Python]**
-- 🔭 Working on: **[IoT Project in IBM Consulting]**
-- 🌍 Languages: **[C++, Java, HTMl, CSS and Javascript. Portuguese, English, Spanish and Hebrew]**
-- 📫 How to reach me: **[fefeelimelek@gmail.com]**
-- ⚡ Fun fact: **[I love social activism, photography and dancing]**
+- 🌱 Currently learning: **Python**
+- 🔭 Working on: **IoT Project in IBM Consulting**
+- 🌍 Languages: **C++, Java, HTMl, CSS and Javascript. Portuguese, English, Spanish and Hebrew**
+- 📫 How to reach me: **fefeelimelek@gmail.com**
+- ⚡ Fun fact: **I love social activism, photography and dancing**
 
 ## My Skills 🧠
 
