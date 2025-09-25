@@ -51,6 +51,6 @@ Basic Level
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link) -- to be included
-- **[LinkedIn]**(https://www.linkedin.com/in/fernanda-elimelek-8b14601b2/)
+- **[LinkedIn](https://www.linkedin.com/in/fernanda-elimelek-8b14601b2/)**
 
 
